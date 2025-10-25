@@ -75,10 +75,4 @@ The findings can help cafe owners focus on top-selling products, maintain invent
 
 ---
 
-## 🔗 View Project
-📂 You can check the full project files here:  
-👉 
-
----
-
 ### #DataAnalysis #PowerBI #Excel #SalesAnalysis #Dashboard #CafeSales #Profitability #Portfolio
