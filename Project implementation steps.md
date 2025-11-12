@@ -1,18 +1,18 @@
-# ☕ Cafe Sales Data Analysis Project
+# Cafe Sales Data Analysis Project
 
-## 📊 Overview
+## Overview
 This project analyzes **cafe sales data** to understand sales performance, spending patterns, and customer payment behavior.  
 The goal of the analysis is to identify trends that help increase **profitability** and improve business decisions.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - **Microsoft Excel** → Data cleaning and preparation  
 - **Power BI** → Data analysis, visualization, and dashboard creation  
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 (1). Data Cleaning (Excel):
  - remove duplicates 
  - use first row as a headers
@@ -51,17 +51,17 @@ The goal of the analysis is to identify trends that help increase **profitabilit
 (2). Data Analysis & Visualization (Power BI):
    - Imported the cleaned Excel dataset into Power BI.    
    - Designed an **interactive dashboard** showing:
-     - 💰 **Total Revenue:** \$83.89K  
-     - 🧾 **Total Transactions:** 9,499  
-     - 📊 **Sales by Item** – highest spending on *Salad* (\$19.1K) and *Sandwich* (\$13.7K).
-     - 📊 **Quantity sold by Item** – highest sold item *Coffee* (3.9K) and *Salad* (3.8K).  
-     - 📅 **Sales by Month** – strong performance in March and April.  
-     - 🏪 **Sales by Location** – balanced split between *In-store* (49.3%) and *Takeaway* (50.7%).  
-     - 💳 **Payment Methods** – evenly distributed between *Credit Card*, *Cash*, and *Digital Wallet*.
+     -  **Total Revenue:** \$83.89K  
+     -  **Total Transactions:** 9,499  
+     -  **Sales by Item** – highest spending on *Salad* (\$19.1K) and *Sandwich* (\$13.7K).
+     -  **Quantity sold by Item** – highest sold item *Coffee* (3.9K) and *Salad* (3.8K).  
+     -  **Sales by Month** – strong performance in March and April.  
+     -  **Sales by Location** – balanced split between *In-store* (49.3%) and *Takeaway* (50.7%).  
+     -  **Payment Methods** – evenly distributed between *Credit Card*, *Cash*, and *Digital Wallet*.
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - **Salad** and **Sandwich** are the top contributors to total sales revenue.  
 - **In-store** and **Takeaway** orders have nearly equal spending, indicating consistent customer engagement.  
 - Sales are stable throughout the year, with slight peaks in **March** and **October** AND sharp decline in **February**.  
@@ -69,7 +69,7 @@ The goal of the analysis is to identify trends that help increase **profitabilit
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 This project demonstrates how Excel and Power BI can be used together to gain valuable insights from sales data.  
 The findings can help cafe owners focus on top-selling products, maintain inventory efficiently, and optimize payment options for better customer satisfaction.
 
